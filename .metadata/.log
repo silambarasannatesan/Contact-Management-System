@@ -1,0 +1,22 @@
+!SESSION 2018-09-24 15:55:49.342 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_152
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+
+!ENTRY org.eclipse.osgi 4 0 2018-09-24 15:56:06.295
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: C:\Users\silambarasan\Downloads\softwares\eclipse-jee-neon-3-win32-x86_64\eclipse\configuration\org.eclipse.osgi
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-09-24 15:58:05.038
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\silambarasan'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.core.resources 4 77 2018-09-24 16:00:51.310
+!MESSAGE Invalid project description.
+!SUBENTRY 1 unknown 0 0 2018-09-24 16:00:51.311
+!MESSAGE OK
+!SUBENTRY 1 org.eclipse.core.resources 4 77 2018-09-24 16:00:51.311
+!MESSAGE D:\Workspaces\Contact_Management-System overlaps the workspace location: D:\Workspaces\Contact_Management-System
